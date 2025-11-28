@@ -11,3 +11,35 @@ padding-top: 80px;
 display: flex;
 justify-content: center;
 }
+
+categoria{
+padding-left: 20px;
+padding-left: 20px;
+}
+
+div {
+margin-right: 20p;
+}
+
+.chamada-texto {
+margin-right: 5%;
+margin-left: 5%;
+}
+
+img {
+height: 200px;
+}
+
+.categoria-videos {
+display: flex;
+overflow-x: auto;
+gap: 10px;
+}
+
+h1 {
+font-size: 30px;
+}
+
+p {
+font-size: 20px;
+}
